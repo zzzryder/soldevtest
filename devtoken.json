@@ -1,0 +1,12 @@
+{
+  "name": "Dev Token",
+  "symbol": "DT",
+  "image": "https://raw.githubusercontent.com/zzzryder/soldevtest/refs/heads/main/peashoot.png",
+  "description": "This token is for testing purposes",
+  "creator": {
+    "name": "zzz",
+    "website": "https://youtube.com/",
+    "twitter": "https://x.com/ezr3c",
+    "telegram": "https://t.me/devtokentest111"
+  }
+}
